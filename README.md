@@ -1,6 +1,8 @@
 # NFTify
 React Native NFT Marketplace App
 
+[Download Here](https://nainishnftify.netlify.app/)
+
 This is a mobile app built with React Native that allows users to buy and sell NFTs (Non-Fungible Tokens) on a marketplace.
 
 
