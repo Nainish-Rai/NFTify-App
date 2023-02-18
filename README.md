@@ -2,9 +2,12 @@
 React Native NFT Marketplace App
 
 This is a mobile app built with React Native that allows users to buy and sell NFTs (Non-Fungible Tokens) on a marketplace.
-Installation
 
-## To run this app on your local machine, follow these steps:
+
+![image](https://user-images.githubusercontent.com/109546113/219857010-ff66fc79-51a9-4a99-a8c1-e0e0a4546706.png)
+
+## Installation
+### To run this app on your local machine, follow these steps:
 
    - Clone this repository to your local machine: git clone https://github.com/your-username/react-native-nft-marketplace-app.git
    - Navigate to the project directory: cd react-native-nft-marketplace-app
@@ -13,7 +16,7 @@ Installation
    - Use the Expo app on your mobile device or an emulator to run the app.
 
  Note: You will need to have the Expo app installed on your mobile device in order to run the app. You can download it from the App Store or Google Play.
- Features
+ 
 
 ## Features
    - Browse NFTs listed for sale on the marketplace
